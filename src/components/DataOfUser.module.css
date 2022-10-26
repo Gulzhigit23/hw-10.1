@@ -1,0 +1,42 @@
+.container {
+   
+    margin: auto;
+    margin-top: 25px;
+    width: 300px;
+    height: 300px;
+    
+}
+
+
+.container div {
+   
+    
+    width: 300px;
+    height: 300px;
+}
+.container span{
+     font: inherit;
+     height: 10px;
+     
+}
+
+
+.container img {
+    margin-left: 70px;
+    margin-top: 10px;
+   
+    width: 150px;
+    height: 150px;
+}
+.container p {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    
+ display: flex;
+ justify-content: center;
+ align-items: center;
+    background: greenyellow;
+    
+}
+
